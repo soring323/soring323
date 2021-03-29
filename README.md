@@ -1,8 +1,8 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on G8Meida Group
-- 🌱 I’m currently learning Devops
+- 🔭 I’m currently working on G8Meida Group and worked on Truligent Inc, Store One AG, Rubix Digial LTD, T-Tech Solution LLC.
+- 🌱 I’m currently learning Ruby on Rails 
 - 👯 I’m looking to collaborate on Mobile App development(Swift,Kotlin, Flutter, React Native, TypeScript, Devops:AWS EC2 Configation, Nginx)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anytime. :)
