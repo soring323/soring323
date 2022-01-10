@@ -1,5 +1,5 @@
 ____	
-![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
+![uni github stats](https://github-readme-stats.vercel.app/api?username=DedicatedDev&hide=["issues"]&show_icons=true)
 
 <p>
 	<a href="https://github.com/DedicatedDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -10,8 +10,8 @@ ____
 
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/-Solidity-222222?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Solidity-222222?style=flat-square&logo=solidity&logoColor=red)
-![Rust](https://img.shields.io/badge/-PyTeal-208099?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DDDDDD?style=flat-square&logo=Rust&logoColor=903211)
+![PyTeal](https://img.shields.io/badge/-PyTeal-208099?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend(Mobile)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=red)
