@@ -4,7 +4,7 @@ ____
 <p>
 	<a href="https://github.com/DedicatedDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
 <br></p>
-<img height=100 width=1000 src="https://i.pinimg.com/originals/20/ae/f2/20aef23d39a8dcb74bf663ed89ab08d6.gif" />
+<img height=150 width=1000 src="https://i.pinimg.com/originals/b6/69/4d/b6694d23b45b6e67206a085ded785bec.gif" />
 
 ## ⚡ Technologies
 
