@@ -1,5 +1,5 @@
 ____	
-![uni github stats](https://github-readme-stats.vercel.app/api?username=DedicatedDev&hide=["issues"]&show_icons=true)
+
 
 
 <img height=150 width=1000 src="https://c.tenor.com/o23PLsTxPLoAAAAd/wallpaper.gif" />
