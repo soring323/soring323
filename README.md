@@ -1,9 +1,7 @@
 ____	
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=DedicatedDev&hide=["issues"]&show_icons=true)
 
-<p>
-	<a href="https://github.com/DedicatedDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
-<br></p>
+
 <img height=150 width=1000 src="https://c.tenor.com/o23PLsTxPLoAAAAd/wallpaper.gif" />
 
 ## ⚡ Technologies
