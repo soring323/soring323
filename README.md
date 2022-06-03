@@ -16,6 +16,19 @@ ____
 ![Solidity](https://img.shields.io/badge/-Solidity-222222?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DDDDDD?style=flat-square&logo=Rust&logoColor=903211)
 ![PyTeal](https://img.shields.io/badge/-PyTeal-208099?style=flat-square&logo=python&logoColor=white)
+![Rell](https://img.shields.io/badge/-Rell-208099?style=flat-square&logo=rell&logoColor=white)
+
+### Backend
+![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go%20on%20Rails-DDDDDD?style=flat-square&logo=Go&logoColor=903211)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-DDDDDD?style=flat-square&logo=Ruby&logoColor=903211)
+![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat-square&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Frontend(Mobile)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=red)
@@ -34,14 +47,5 @@ ____
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 
-### Backend
-![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-DDDDDD?style=flat-square&logo=Ruby&logoColor=903211)
-![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat-square&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
