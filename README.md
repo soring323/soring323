@@ -13,6 +13,7 @@ ____
 ## ⚡ Technologies
 
 ### Blockchain
+![Go](https://img.shields.io/badge/-Go-208099?style=flat-square&logo=go&logoColor=red)
 ![Solidity](https://img.shields.io/badge/-Solidity-222222?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DDDDDD?style=flat-square&logo=Rust&logoColor=903211)
 ![PyTeal](https://img.shields.io/badge/-PyTeal-208099?style=flat-square&logo=python&logoColor=white)
