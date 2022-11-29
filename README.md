@@ -32,13 +32,10 @@ ____
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Frontend(Mobile)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=red)
 ![Flutter](https://img.shields.io/badge/-Flutter-DDDDDD?style=flat-square&logo=flutter&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/-Kotlin-DDDDDD?style=flat-square&logo=kotlin&logoColor=903211)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ### Frontend(Web)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-E10098?style=flat-square&logo=tailwind&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
