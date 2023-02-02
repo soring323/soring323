@@ -1,10 +1,5 @@
 ____	
 
-
-
-<img height=150 width=1000 src="https://c.tenor.com/o23PLsTxPLoAAAAd/wallpaper.gif](https://commons.wikimedia.org/wiki/File:Computer-screen-code-glitch-animation-gif-background-free.gif" />
-
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DedicatedDev" alt="Freebird0323" />
 </p>
