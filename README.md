@@ -1,8 +1,3 @@
-____	
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DedicatedDev" alt="Freebird0323" />
-</p>
 
 
 ## ⚡ Technologies
