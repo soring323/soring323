@@ -1,6 +1,6 @@
 
 
-## ⚡ Senior Software Engineer experienced in C++, Qt
+## ⚡ Senior Software Engineer
 
 
 
